@@ -39,3 +39,7 @@ cd calculadora-imc
 ```bash
 node imc.js
 ```
+
+## 🎯 Status
+
+✅ Projeto concluído
